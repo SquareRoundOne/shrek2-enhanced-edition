@@ -39,6 +39,16 @@ Download the installer from [Releases](../../releases) (all three files into one
 - Layouts "Original" and "Modern" and rebinding of any action, two keys per action.
 - Raw mouse input without Windows acceleration, own sensitivity, inversion and smoothing.
 
+### Gameplay changes
+- **Modern layout** (the launcher also keeps the "Original" one): WASD, left button attacks, **Space jumps and skips cutscenes**, the **mouse wheel switches potions**, the **right button drinks or throws the chosen potion**, **Q opens the potion menu with pictures**, keys 1–9 still use a potion at once, Ctrl stays free. Any action can be rebound, two keys each.
+- **Potions: choosing and using are separate.** On the pad the D-pad left/right chooses, Y uses, D-pad up opens the menu. The wheel and the D-pad go through all nine potions in a circle (the ones you do not have are grey and cannot be used).
+- **Cutscenes:** skipping puts the camera exactly in its final place instead of letting it drive there for seconds; the opening book scene before the main menu can be skipped (Space or Esc); Space no longer cuts off a hero's line during play, only real scenes are skipped; the field of view comes back to the game's after every scene and every load.
+- **Double jump forgives more:** the second jump also works just after the top of the jump and a moment after walking off an edge (the original rule for pulling up onto a ledge is kept whole).
+- **Camera:** it no longer works faster at higher FPS (the original turned 2.4 times faster at 144 FPS than at 60); things standing between the camera and the hero turn transparent (switchable); the pause menu opens straight from the pad; Mongo's footsteps shake the camera 25% less.
+- **Heroes:** the DualSense triggers are weaker for Donkey and Puss in Boots; the game's hints follow the controls you use.
+- **Free look and hidden places** (the launcher's "Places" tab): the Fairy Godmother's corridor and office and other places reachable only with the photo mode; **photo mode** with a free camera that stays in the level; cheats tab, speedrun timer, level select, browser of the cut and English lines.
+- **Fixes in play:** wanted posters shown big, pickups keep their size at any distance, the player is no longer lost on the beanstalk bonus levels, the potion menu has no empty frame, save slots keep their chapter pictures.
+
 ### Language
 - Text and subtitles: Russian (2005), a new translation of all 2494 lines done from the English original, or English with the English signs and posters on the textures (61 textures from the English disc).
 - Voices: Russian or English, chosen independently of the text; the Fairy Godmother's commercial changes with the voice.
@@ -105,6 +115,16 @@ Download the installer from [Releases](../../releases) (all three files into one
 ### Клавиатура и мышь
 - Раскладки «Оригинал» и «Современная» и переназначение любого действия, по две клавиши на действие.
 - Прямой ввод мыши без ускорения Windows, своя скорость, инверсия и сглаживание.
+
+### Изменения в игровом процессе
+- **«Современная» раскладка** (в лаунчере есть и «Оригинал»): WASD, левая кнопка — удар, **пробел — прыжок и пропуск катсцены**, **колесо мыши листает зелья**, **правая кнопка — выпить или бросить выбранное зелье**, **Q — меню зелий с картинками**, клавиши 1–9 по-прежнему сразу применяют зелье, Ctrl свободен. Любое действие переназначается, по две клавиши.
+- **Зелья: выбор и применение разделены.** На геймпаде крестовина ←/→ выбирает, Y применяет, ↑ открывает меню. Колесо и крестовина листают все девять зелий по кругу (те, которых нет, серые и не применяются).
+- **Катсцены:** пропуск ставит камеру точно в конечную точку, а не доезжает до неё секундами; вступление с книгой перед главным меню можно пропустить (пробел или Esc); пробел больше не обрывает реплику героя во время игры, пропускаются только настоящие сцены; угол обзора после каждой сцены и загрузки возвращается к игровому.
+- **Двойной прыжок прощает больше:** второй прыжок срабатывает и сразу после верхней точки, и чуть после того, как герой сошёл с края (оригинальное правило подтягивания на уступ сохранено полностью).
+- **Камера:** больше не крутится быстрее при высоком FPS (в оригинале при 144 FPS она вращалась в 2,4 раза быстрее, чем при 60); предметы между камерой и героем становятся прозрачными (можно выключить); меню паузы открывается ровно прямо с геймпада; тряска камеры от шагов Монго слабее на 25%.
+- **Герои:** курки DualSense слабее за Осла и Кота; подсказки игры подстраиваются под ваше управление.
+- **Свободный осмотр и скрытые места** (вкладка «Места» в лаунчере): коридор и приёмная Крёстной Феи и другие места, куда обычно не попасть, через фоторежим; **фоторежим** со свободной камерой, которая не выходит за уровень; вкладка читов, таймер для спидрана, выбор уровня, список вырезанных и английских реплик.
+- **Исправления в игре:** плакаты «Разыскивается» показываются крупно, подбираемые предметы не уменьшаются с расстоянием, игрок не теряется на бонусных уровнях «Бобовый стебель», в меню зелий нет пустой рамки, ячейки сохранений сохраняют картинки глав.
 
 ### Язык
 - Текст и субтитры: русский (2005), новый перевод всех 2494 реплик заново с английского, или английский с английскими вывесками и плакатами на текстурах (61 текстура с английского диска).
