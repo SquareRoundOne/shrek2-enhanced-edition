@@ -1,0 +1,12 @@
+-i ./System/ShrekRemasterTextures/work/batch -o ./System/ShrekRemasterTextures/work/hi -n realesrgan-x4plus -s 4 -f png
+-i ./System/ShrekRemasterTextures/work/batch -o ./System/ShrekRemasterTextures/work/hi -n realesrgan-x4plus -s 4 -f png
+-i ./System/ShrekRemasterTextures/work/batch -o ./System/ShrekRemasterTextures/work/hi -n realesrgan-x4plus -s 4 -f png
+-i ./System/ShrekRemasterTextures/work/batch -o ./System/ShrekRemasterTextures/work/hi -n realesrgan-x4plus-anime -s 4 -f png
+-i ./System/ShrekRemasterTextures/work/batch -o ./System/ShrekRemasterTextures/work/hi -n realesrgan-x4plus-anime -s 4 -f png
+-i ./System/ShrekRemasterTextures/work/batch -o ./System/ShrekRemasterTextures/work/hi -n realesrgan-x4plus-anime -s 4 -f png
+-i ./System/ShrekRemasterTextures/work/batch -o ./System/ShrekRemasterTextures/work/hi -n realesrgan-x4plus-anime -s 4 -f png
+-i ./System/ShrekRemasterTextures/work/batch -o ./System/ShrekRemasterTextures/work/hi -n realesrgan-x4plus-anime -s 4 -f png
+-i ./System/ShrekRemasterTextures/work/batch -o ./System/ShrekRemasterTextures/work/hi -n realesrgan-x4plus-anime -s 4 -f png
+-i ./System/ShrekRemasterTextures/work/batch -o ./System/ShrekRemasterTextures/work/hi -n realesrgan-x4plus-anime -s 4 -f png
+-i ./System/ShrekRemasterTextures/work/batch -o ./System/ShrekRemasterTextures/work/hi -n realesrgan-x4plus-anime -s 4 -f png
+-i ./System/ShrekRemasterTextures/work/batch -o ./System/ShrekRemasterTextures/work/hi -n realesrgan-x4plus-anime -s 4 -f png

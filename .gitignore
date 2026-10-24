@@ -1,0 +1,33 @@
+# build products and the installer (they go to Releases, not to the repository)
+out/
+installer/
+release/
+extracted/
+*.bak
+*.o
+*.obj
+bak32/
+rz/bak32/
+
+# material taken from the game itself (texts, pictures, icons): kept out so the page can be made public
+ext/
+tr/
+restore/
+assets/discord_levels/
+assets/Shrek2.ico
+
+# local tools and test data
+srtest/
+__pycache__/
+*.pyc
+*.log
+*.zip
+*.bin
+cmp/
+rel0933/System/ShrekRemaster/original/
+rel0933/System/ShrekRemaster/files/
+
+# working notes for the author (kept locally, not published)
+HANDOFF.md
+CLAUDE.md
+SETUP_RU.md

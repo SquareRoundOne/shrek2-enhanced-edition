@@ -1,0 +1,1 @@
+Apollo by Kai Li et al., https://github.com/JusperLee/Apollo, commit e84bcacc59d5455f05d86a5c97dd4aeb3c14dbb6 (Mon Aug 24 22:50:20 2026 +0800), CC BY-SA 4.0, unmodified
