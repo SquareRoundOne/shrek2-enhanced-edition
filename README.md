@@ -52,7 +52,7 @@ Download the installer from [Releases](../../releases) (all three files into one
 ### Language
 - Text and subtitles: Russian (2005), a new translation of all 2494 lines done from the English original, or English with the English signs and posters on the textures (61 textures from the English disc).
 - Voices: Russian or English, chosen independently of the text; the Fairy Godmother's commercial changes with the voice.
-- Subtitles on every line (scenes and gameplay) with the speaker's name and colour, a choice of font, size and colours, black bars handled.
+- Subtitles on every line (scenes and gameplay) with the speaker's name and colour, a choice of font, size and colours. **The black cinematic bars in cutscenes can be removed** (launcher → Game → Subtitles → View → "No black bars"), or kept as in the original.
 - English lines that were cut from the Russian dubbing are restored and can be listened to in the launcher.
 
 ### Launcher
@@ -127,7 +127,7 @@ Download the installer from [Releases](../../releases) (all three files into one
 ### Язык
 - Текст и субтитры: русский (2005), новый перевод всех 2494 реплик заново с английского, или английский с английскими вывесками и плакатами на текстурах (61 текстура с английского диска).
 - Озвучка: русская или английская, выбирается отдельно от текста; рекламный ролик Крёстной Феи меняется вместе с озвучкой.
-- Субтитры на все реплики (в сценах и в игре) с именем и цветом говорящего, выбор шрифта, размера и цветов, учтены чёрные полосы.
+- Субтитры на все реплики (в сценах и в игре) с именем и цветом говорящего, выбор шрифта, размера и цветов, **Чёрные полосы в катсценах можно убрать** (лаунчер → Игра → Субтитры → Вид → «Без чёрных полос») или оставить как в оригинале.
 - Английские реплики, вырезанные из русской озвучки, восстановлены, их можно послушать в лаунчере.
 
 ### Лаунчер
