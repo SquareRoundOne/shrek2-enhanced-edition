@@ -75,8 +75,6 @@ Download the installer from [Releases](../../releases) (all three files into one
 - Pickups no longer shrink with distance; Mongo's camera shake is 25% weaker; sun rays no longer come from interface digits.
 - One installer with everything, shortcuts and an uninstaller.
 
----
-
 # Шрек 2: Улучшенное Издание
 
 Неофициальная фанатская надстройка, которая делает PC-версию «Шрек 2» (2004/2005, Unreal Engine 2) красивой и удобной на современных компьютерах. Нужна установленная игра, надстройка её не заменяет.
@@ -156,7 +154,5 @@ Download the installer from [Releases](../../releases) (all three files into one
 DXVK (zlib), OpenAL Soft (LGPL), Real-ESRGAN (BSD-3, HD textures), AudioSR (MIT) and Apollo (CC BY-SA 4.0) (HD sound), FFmpeg-based Bink audio decoder (LGPL), AMD FidelityFX CAS (MIT), stb (public domain), rgbcx (MIT), DejaVu and Lora fonts (free licenses). Full texts are in the installed `System\ShrekRemaster\licenses`. "Shrek" and the game belong to their owners; this is a free fan project that needs your own copy of the game.
 
 DXVK (zlib), OpenAL Soft (LGPL), Real-ESRGAN (BSD-3, HD-текстуры), AudioSR (MIT) и Apollo (CC BY-SA 4.0) (HD-звук), аудиодекодер Bink на основе FFmpeg (LGPL), AMD FidelityFX CAS (MIT), stb, rgbcx (MIT), шрифты DejaVu и Lora. Полные тексты лицензий лежат в установленной папке `System\ShrekRemaster\licenses`. «Шрек» и игра принадлежат их владельцам; это бесплатный фанатский проект, которому нужна ваша собственная копия игры.
-
----
 
 For developers / Для разработчиков: `rz/` (shrz.dll: renderer), `pad/` (dinput8.dll: gamepad, Discord, photo mode), `launcher/`, `tools/`, `rel0933/`. Code: GPL-3.0.
